@@ -1,3 +1,3 @@
 def run_guessing_game
-  rand_num = rand(1..6)
+  rand_num = rand(6) + 1 
 end 
